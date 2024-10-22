@@ -1,0 +1,53 @@
+[
+    {
+      "id": 101,
+      "cover": "https://i.ibb.co.com/pL4HqCW/flat-lay-desk-dark-concept-with-copy-space.jpg",
+      "title": "The Silent Echo",
+      "author": "Alex Carter",
+      "author_img": "https://i.ibb.co.com/3TfFX3j/alex.jpg",
+      "posted_date": "2024-08-15",
+      "reading_time": 5,
+      "hashtags": ["#fiction", "#mystery", "#thriller"]
+    },
+    {
+      "id": 102,
+      "cover": "https://i.ibb.co.com/p20DYM5/3146388.jpg",
+      "title": "Waves of Time",
+      "author": "Sarah Monroe",
+      "author_img": "https://i.ibb.co.com/WGjvvgd/cute-young-caucasian-brunette-female-with-loose-hairstyle-resting-hands-table-while-enjoying-her-day.jpg",
+      "posted_date": "2024-09-12",
+      "reading_time": 7,
+      "hashtags": ["#romance", "#fantasy", "#time-travel"]
+    },
+    {
+      "id": 103,
+      "cover": "https://i.ibb.co.com/SXyXD1V/abstract-fire-style-background.jpg",
+      "title": "The Quantum Paradox",
+      "author": "David King",
+      "author_img": "https://i.ibb.co.com/7QRy579/david.jpg",
+      "posted_date": "2024-07-28",
+      "reading_time": 9,
+      "hashtags": ["#sci-fi", "#quantum", "#adventure"]
+    },
+    {
+      "id": 104,
+      "cover": "https://i.ibb.co.com/0f7dXdx/7327665.jpg",
+      "title": "Beneath the Shadows",
+      "author": "Emma Brooks",
+      "author_img": "https://i.ibb.co.com/kqDGfRs/Emma-Brooks.jpg",
+      "posted_date": "2024-10-02",
+      "reading_time": 6,
+      "hashtags": ["#horror", "#gothic", "#suspense"]
+    },
+    {
+      "id": 105,
+      "cover": "https://i.ibb.co.com/gjL1wky/3860147.jpg",
+      "title": "Echoes in the Mist",
+      "author": "Liam Roberts",
+      "author_img": "https://i.ibb.co.com/vz2yH9X/roberts.jpg",
+      "posted_date": "2024-09-25",
+      "reading_time": 8,
+      "hashtags": ["#fantasy", "#mystery", "#adventure"]
+    }
+  ]
+  
